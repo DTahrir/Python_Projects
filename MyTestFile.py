@@ -1,5 +1,5 @@
 def SayHello(b):
-  a = input("Enter a charachter: ")
+  a = input("Enter some charachters: ")
   print(b, a)
 
 SayHello("Hello")
