@@ -1,6 +1,6 @@
 def SayHello(b):
-  a = input("Enter some charachters: ")
-  print(b, a)
+  
+  print(b)
 
 SayHello("Hello")
 print("This is to add for Branch No2")
